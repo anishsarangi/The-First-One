@@ -1,7 +1,7 @@
 $(function()
 {
-	$("a").one("mouseover",function()
+	$("a").on("mouseover",function()
 	{
-		alert('Hey..!! This is a link');
+		console.log('Hey..!! This is a link');
 	});
 });
