@@ -1,4 +1,4 @@
 # The-First-One
 Chrome Extension.
-It will alert,when you will hover a link.
+Get a message in the console when hover a link.
 More will be updated soon.
